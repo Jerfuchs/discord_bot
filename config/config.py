@@ -1,0 +1,1 @@
+# Here are all variables which should be changable
